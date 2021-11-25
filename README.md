@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @fullstack202
 - 👀 I’m interested in Web development and DevOps engineering
-- 💞️ I’m looking to collaborate on long term project via Upwork platform
 - 📫 How to reach me : email: erion.p.012@gmail.com
 
 <!---
