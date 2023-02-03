@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fullstack202
-- 👀 I’m interested in Web development and DevOps engineering
+- 👀 I’m interested in Web and Mobile development
 - 📫 How to reach me : email: erion.p.012@gmail.com
 
 <!---
